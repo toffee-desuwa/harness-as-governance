@@ -98,6 +98,10 @@ Anthropic 那篇文章结尾有一句话:"the space of interesting harness combi
 
 更现实的判断是:今天 harness 工程的默认值,未来几年可能沉淀为既定事实。git 在 2005 年也只是 Linux kernel 团队自己的工具。harness 工程现在处在"标准还没定"的窗口期,不是模型不够强。
 
+2026 年 5 月这个判断有了产业级信号。阿里云发布千问云,把 480+ 模型加 60 多个云产品的能力全封装成 Skill 和 CLI,让 agent 不经过人类中介直接调用云资源。同期 Google I/O 把开发平台 Antigravity 升级成 agent-first 架构,官方文档直接用 "agent harness" 这个词描述 Gemini 执行真实任务的框架。两件事指向同一个拐点:agent 正在成为云基础设施的一等公民消费者。而 Google 用 "agent harness" 命名框架是个额外信号 — 这个词正在从学术讨论进入产业词汇表。
+
+但云厂商解决的是"能不能调通",模型厂商解决的是"输出质量",中间这一层 — 这个 agent 该不该调、能花多少、调错了怎么回滚 — 没人管。这正是 governance。当 agent 能自主调云资源,governance 就从"可选的架构层"变成"大规模自主行动的前提"。可逆的(多花钱)可以 auto-execute,部分可逆的(数据外传)要 async 审批,不可逆的(删库、对外发布、签约)必须 sync 阻断。这不再是抽象分类,是 agent 调云资源时真实的成本-风险 trade-off。
+
 ---
 
 ## 五、本文可能错在哪里
