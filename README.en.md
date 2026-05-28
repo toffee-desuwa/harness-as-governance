@@ -1,5 +1,7 @@
 # Harness Is Governance, Not Prompt Engineering
 
+<sub>English · [中文](README.md)</sub>
+
 **Model + Harness = Agent.** That's the one idea this essay is trying to make precise.
 
 The same Claude 4.7 model lives inside three different Anthropic products. The underlying capabilities — reasoning, planning, tool use — are identical across all three. Yet the products look nothing alike:

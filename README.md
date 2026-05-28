@@ -1,5 +1,7 @@
 # Harness 是 governance 工程
 
+<sub>[English](README.en.md) · 中文</sub>
+
 **Model + Harness = Agent**。这是这篇文章想讲清楚的一件事。
 
 同一个 Claude 4.7 模型,被 Anthropic 自己塞进三个产品里。推理、规划、工具调用,这些底层能力完全一样。但三个产品长得完全不同:
