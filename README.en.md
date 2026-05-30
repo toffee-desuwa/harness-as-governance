@@ -155,6 +155,26 @@ I plan to do the follow-up work in the open, on public repos.
 
 ---
 
+## Afterword: So what do we do?
+
+The process of writing this essay is itself a footnote to it.
+
+The code, the revisions, the wording, even the content of the comments — none of it was done by my own hands. The AI did it. What I did was judge, set direction, draw boundaries, and catch it when it started to drift. Step back to the governance layer.
+
+I have to admit something first: the thrill at the start was real. Throwing a task over, watching it run itself, efficiency multiplying — that positive feedback is addictive, and I got addicted. But the unease that came right after was just as real, and the deeper you go, the deeper into this you are, the more uneasy you get — the AI does the work, so what do we, the humans, do?
+
+This isn't just my own knot. Luo Fuli (head of Xiaomi's large-model team, formerly at DeepSeek) said something to this effect: she used to think her own work was creative enough that it wouldn't be reduced to a Skill or a Workflow — and then she found the AI "lifts itself up by stepping on its own left foot with its right" (my translation of her phrasing), and she threw the question back: as more and more work can be handed to AI, what meaning and value are humans left with? The person asking this is one of those standing at the very front of this field. Which means it isn't anxiety — it's a real question this era puts in front of everyone, and one we'll face for a long time.
+
+I don't have an answer. I suspect this question has no closed-form solution — only the heavens know. What I can reach for right now isn't a solution but a stance: making peace with myself. Specifically, making peace with the self that "thought value was equal to doing the work with my own hands." If the part I typed by hand gets taken away, I have to find a new basis for "I'm still here," instead of clinging to the old basis in dread.
+
+But I have to push the honesty all the way, including kicking out the legs of my own essay. Earlier I said governance is the part the AI can't eat. Honestly, I'm not even sure that sentence holds — whether the judgment that "harness is a value humans can hold onto" will one day be overturned by the AI itself. I haven't reserved any zone that "the AI absolutely can't reach" for myself, governance included, this essay's conclusion included.
+
+The singularity is already behind us. In an agent-first world, a human's value may no longer be "what I did." Or perhaps the very phrase "our value" needs to be redefined.
+
+I don't know. I just wanted to write this not-knowing down, honestly.
+
+---
+
 ## References
 
 - OpenAI · [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
